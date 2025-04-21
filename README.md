@@ -2,20 +2,20 @@
 
 ## 🛠️ Languages, Tools and Libraries
 
-<p align="center"><u><b>Programming Languages:</b></u></p>
+<p align="center"><b>Programming Languages:</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
 </p>
-<p align="center"><u><b>Web Development:</b></u></p>
+<p align="center"><b>Web Development:</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres"/>
 </p>
-<p align="center"><u><b>Embedded Systems:</b></u></p>
+<p align="center"><b>Embedded Systems:</b></p>
 <p align="center">
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="55px" style="vertical-align: middle"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="55px" style="vertical-align: middle"/>
 </p>
-<p align="center"><u><b>Libraries :</b></u></p>
+<p align="center"><b>Libraries :</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" height="50px" style="vertical-align: middle"/>
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="55px" style="vertical-align: middle"/>
