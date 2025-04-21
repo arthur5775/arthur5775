@@ -20,6 +20,7 @@
 - **M1 in Computer Engineering** – ISEN Nantes
 - **Exchange Semester in Data Science & Energy** – Heriot-Watt University, Edinburgh
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qaECqXU1BAVD_8JK-tBj0rJBQIbZJ_U&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## 👋 How to contact me
 
