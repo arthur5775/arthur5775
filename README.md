@@ -22,7 +22,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="640" height="480" />
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="320" height="240" />
 </p>
 
 ## 👋 How to contact me
