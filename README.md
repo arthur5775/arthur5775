@@ -17,7 +17,7 @@
 </p>
 <p align="center"><u><b>Libraries :</b></u></p>
 <p align="center">
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" height="55px" style="vertical-align: middle"/>
+  <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" height="55px" style="vertical-align: middle"/>
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="55px" style="vertical-align: middle"/>
    <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="55px" style="vertical-align: middle"/>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="55px" style="vertical-align: middle"/>
