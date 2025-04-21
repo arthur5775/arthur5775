@@ -1,6 +1,6 @@
 <hr>
 
-## 🛠️ Languages, Libraries and Tools
+## 📚 Languages, Libraries and Tools 🛠️
 
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
@@ -40,7 +40,7 @@
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="55px" style="vertical-align: middle"/>
 </p>
 
-## ⚡️ Stats
+## 📈 Stats 📉
 
 <div align="center">
   <img width=320 height=250 src="https://github-readme-stats.vercel.app/api?username=arthur5775&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
@@ -49,7 +49,7 @@
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
-## 🎓 Education
+## 🎓 Education 🏫
 
 <table>
   <tr>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-## 👋 How to contact me
+## 👋 How to contact me ☎️
 
 <div align="center">
   <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none">
