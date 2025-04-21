@@ -30,6 +30,14 @@
   <img src="https://www.tensorflow.org/images/tf_logo.png" height="55px" style="vertical-align: middle"/>
 </p>
 
+<p align="center"><b>Other Tools:</b></p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="55px"/>
+  <img src="https://skillicons.dev/icons?i=latex"/>
+  <img src="https://en.m.wikipedia.org/wiki/Microsoft_Excel#/media/File%3AMicrosoft_Office_Excel_(2019–present).svg" height="55px"/>
+  <img src=" https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="55px" style="vertical-align: middle"/>
+</p>
+
 ## ⚡️ Stats
 
 <div align="center">
