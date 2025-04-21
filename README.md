@@ -1,6 +1,5 @@
 ## 🛠️ Languages and Tools
 
-<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,c,java,php,mysql,postgres,html,css,js,opencv" />
 </p>
