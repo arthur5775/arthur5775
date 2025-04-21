@@ -3,7 +3,8 @@
 <br>
 <div align="center">
   <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
   </a>
   <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
