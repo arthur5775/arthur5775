@@ -17,6 +17,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,c,java,php,mysql,postgres,html,css,js,opencv" />
 </p>
+
+<p align="center">
+  <!-- Custom consistent logos -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Matlab_Logo.png" alt="MATLAB" height="40px" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*FObgpBjHKHLCcvd4I99bWQ.png" alt="AJAX" height="40px" />
+  <img src="https://www.latex-project.org/img/latex-logo.svg" alt="LaTeX" height="40px" />
+</p>
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white" />
