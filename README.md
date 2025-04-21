@@ -26,13 +26,6 @@
   </div>
 </div>
 
-<img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="320" height="240" />
-
-- **M1 in Computer Engineering** – ISEN Nantes
-- **Exchange Semester in Data Science & Energy** – Heriot-Watt University, Edinburgh
-- **High School** – Lycée Fabert, Metz
-
-
 ## 👋 How to contact me
 
 <br>
