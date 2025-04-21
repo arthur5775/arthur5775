@@ -2,16 +2,16 @@
 
 ## 🛠️ Languages and Tools
 
+<p align="center"><u><b>Programming Languages:</b></u></p>
 <p align="center">
-  <b>Programming Languages:</b><br>br>
   <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
 </p>
+<p align="center"><u><b>Web Development:</b></u></p>
 <p align="center">
-  <b>Web Development:</b>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres"/>
 </p>
+<p align="center"><u><b>Embedded Systems:</b></u></p>
 <p align="center">
-  <b>Embedded Systems:</b>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>
 </p>
 
