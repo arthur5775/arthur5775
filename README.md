@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=latex"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="55px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="55px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="55px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="55px"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="55px" style="vertical-align: middle"/>
 </p>
 
