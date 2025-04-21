@@ -10,6 +10,7 @@
   </a>
 </div>
 <hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
