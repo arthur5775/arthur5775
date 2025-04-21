@@ -32,7 +32,7 @@
 
 <p align="center"><b>Other Tools:</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=latex"/>
+  <img src="https://skillicons.dev/icons?i=latex" height="55px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="55px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="55px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="55px"/>
