@@ -45,9 +45,9 @@
   <tr>
     <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td>
     <td>
-      - M1 in Computer Engineering : ISEN, Nantes<br><br>
-      - Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
-      - High School : Lycée Fabert, Metz
+      [2020-2025] M1 in Computer Engineering : ISEN, Nantes<br><br>
+      [2025-2025] Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
+      [2017-2020] High School : Lycée Fabert, Metz
     </td>
   </tr>
 </table>
