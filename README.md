@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-## ☎️ How to contact me ☎️
+## ☎️ How to contact me 📧
 
 <div align="center">
   <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none">
