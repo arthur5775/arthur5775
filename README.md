@@ -8,8 +8,7 @@
 </p>
 <p align="center">
   <b>Web Development:</b>
-  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js"/>
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/ajax.jpeg" height="50px" style="vertical-align: middle"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres"/>
 </p>
 <p align="center">
   <b>Embedded Systems:</b>
