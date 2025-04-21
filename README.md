@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,c,java,php,mysql,postgres,html,css,js,opencv" />
 </p>
-<hr>
 
 ## ⚡️ Stats
 
@@ -15,7 +14,6 @@
   <br>
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
-<hr>
 
 ## 🎓 Education
 
