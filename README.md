@@ -10,11 +10,16 @@
   </a>
 </div>
 <hr>
-
 ## 🛠️ Languages and Tools
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,java,postgres,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,java,php,mysql,postgres,html,css,js,opencv" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMerise-004080?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 <hr>
