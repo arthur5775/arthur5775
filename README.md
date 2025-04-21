@@ -1,6 +1,6 @@
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Tools and Libraries
 
 <p align="center"><u><b>Programming Languages:</b></u></p>
 <p align="center">
