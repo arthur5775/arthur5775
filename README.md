@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="320" height="240" /></td>
+    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td>
     <td>
       - M1 in Computer Engineering : ISEN, Nantes<br><br>
       - Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/ms-outlook-logo.png" height="30px" style="vertical-align: middle;"/>
     <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
   </a>
-  <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/" style="text-decoration: none; margin: 0 100px;">
     <img src="https://github.com/arthur5775/arthur5775/blob/main/img/LinkedIn_logo.svg?raw=true" height="30px" style="vertical-align: middle;" />
     <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25px" /> -->
   </a>
