@@ -8,6 +8,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,opencv,latex"/>
 </p>
+<p align="center">
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/ajax.jpeg" height="50px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="50px" style="vertical-align: middle"/>
+</p>
 
 ## ⚡️ Stats
 
