@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none; display: inline-block;">
+  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/ms-outlook-logo.png" height="25px" style="vertical-align: middle;"/>
     <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
   </a>
