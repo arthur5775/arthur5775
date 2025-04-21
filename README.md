@@ -13,6 +13,7 @@
 <p align="center"><u><b>Embedded Systems:</b></u></p>
 <p align="center">
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32.jpg" height="50px" style="vertical-align: middle"/>
 </p>
 
 ## ⚡️ Stats
