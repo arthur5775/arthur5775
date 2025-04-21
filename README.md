@@ -15,6 +15,6 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,R,c,java,postgres,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,java,postgres,html,css,js" />
 </p>
 <hr>
