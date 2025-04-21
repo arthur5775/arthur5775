@@ -3,15 +3,17 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
+  <b>Programming Languages:</b>
   <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,opencv,latex"/>
+  <b>Web Development:</b>
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/ajax.jpeg" height="50px" style="vertical-align: middle"/>
 </p>
 <p align="center">
+  <b>Embedded Systems:</b>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/ajax.jpeg" height="50px" style="vertical-align: middle"/>
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="50px" style="vertical-align: middle"/>
 </p>
 
 ## ⚡️ Stats
