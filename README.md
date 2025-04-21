@@ -42,3 +42,21 @@
   </a>
 </div>
 <hr>
+
+
+
+
+
+
+## 👋 How to contact me
+
+<div align="center">
+  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/ms-outlook-logo.png" height="30px" style="vertical-align: middle; border: none;" alt="Outlook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/" style="text-decoration: none; border: none;">
+    <img src="https://github.com/arthur5775/arthur5775/blob/main/img/LinkedIn_logo.svg?raw=true" height="30px" style="vertical-align: middle; border: none;" alt="LinkedIn"/>
+  </a>
+</div>
+<hr>
