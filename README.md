@@ -17,13 +17,13 @@
 </p>
 <p align="center"><u><b>Libraries :</b></u></p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_3.svg/600px-OpenCV_Logo_3.svg.png" height="55px" style="vertical-align: middle"/>
-  <img src="https://numpy.org/_static/numpylogo.svg" height="55px" style="vertical-align: middle"/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="55px" style="vertical-align: middle"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" height="55px" style="vertical-align: middle"/>
+  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="55px" style="vertical-align: middle"/>
+   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="55px" style="vertical-align: middle"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="55px" style="vertical-align: middle"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="55px" style="vertical-align: middle"/>
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="55px" style="vertical-align: middle"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="55px" style="vertical-align: middle"/>
-  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/src/components/images/logo/plotly-logo-svg.svg" height="55px" style="vertical-align: middle"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_logo.svg" height="55px" style="vertical-align: middle"/>
-  <img src="https://seaborn.pydata.org/_images/seaborn-logo.png" height="55px" style="vertical-align: middle"/>
   <img src="https://www.tensorflow.org/images/tf_logo.png" height="55px" style="vertical-align: middle"/>
 </p>
 
