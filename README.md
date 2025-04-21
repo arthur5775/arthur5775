@@ -17,13 +17,13 @@
 
 ## 🎓 Education
 
+<div align="right">
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="320" height="240" />
+</div>
+
 - **M1 in Computer Engineering** – ISEN Nantes
 - **Exchange Semester in Data Science & Energy** – Heriot-Watt University, Edinburgh
-
-<br>
-<p align="center">
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="320" height="240" />
-</p>
+- **High School** – Lycée Fabert, Metz
 
 ## 👋 How to contact me
 
