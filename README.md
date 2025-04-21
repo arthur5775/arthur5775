@@ -3,11 +3,10 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java,php,mysql,postgres,html,css,js,opencv,latex"/><br>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,js,opencv,latex"/>
 </p>
 
 ## ⚡️ Stats
