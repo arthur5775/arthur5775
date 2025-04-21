@@ -20,7 +20,10 @@
 - **M1 in Computer Engineering** – ISEN Nantes
 - **Exchange Semester in Data Science & Energy** – Heriot-Watt University, Edinburgh
 
-
+<br>
+<p align="center">
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="640" height="480" />
+</p>
 
 ## 👋 How to contact me
 
