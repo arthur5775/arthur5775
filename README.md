@@ -35,9 +35,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=latex" height="55px"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="55px"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="55px"/>&nbsp;
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory.png" height="55px" style="vertical-align: middle"/>&nbsp;
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="55px" style="vertical-align: middle"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="55px"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory.png" height="55px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="55px" style="vertical-align: middle"/>
 </p>
 
 ## ⚡️ Stats
