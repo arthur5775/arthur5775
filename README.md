@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <a href="arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr">
+  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/">
