@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 How to contact me
 
 <br>
 <div align="center">
