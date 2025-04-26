@@ -4,7 +4,7 @@
 
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
 </p>
 
 <p align="center"><b>Web Development:</b></p>
