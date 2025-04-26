@@ -60,8 +60,7 @@
 
 <table>
   <tr>
-    <a href="https://www.google.com/maps/d/u/0/edit?mid=1qaECqXU1BAVD_8JK-tBj0rJBQIbZJ_U&usp=sharing" target="_blank">
-    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td></a>
+    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td>
     <td>
       [2020-2025] M1 in Computer Engineering : ISEN, Nantes<br><br>
       [2025-2025] Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
