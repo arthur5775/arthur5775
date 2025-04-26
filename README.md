@@ -9,13 +9,13 @@
 
 <p align="center"><b>Web Development:</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres"/>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres"/></a>
 </p>
 
 <p align="center"><b>Embedded Systems:</b></p>
 <p align="center">
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>&nbsp;
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="50px" style="vertical-align: middle"/>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/>&nbsp;
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="50px" style="vertical-align: middle"/></a>
 </p>
 
 <p align="center"><b>Libraries :</b></p>
