@@ -14,9 +14,9 @@
 
 <p align="center"><b>Embedded Systems:</b></p>
 <p align="center">
-[<img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px">](https://github.com/arthur5775) 
+[!<img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px">](https://github.com/arthur5775) 
 &nbsp;
-[<img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="50px">](https://github.com/arthur5775)
+[!<img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="50px">](https://github.com/arthur5775)
 </p>
 
 
