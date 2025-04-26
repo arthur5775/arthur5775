@@ -20,6 +20,7 @@
 
 <p align="center"><b>Libraries :</b></p>
 <p align="center">
+  <a href="https://github.com/arthur5775" target="_blank">
   <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" height="50px" style="vertical-align: middle; margin-right: 10px;"/>&nbsp;
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="50px" style="vertical-align: middle"/>&nbsp;
@@ -29,16 +30,19 @@
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="50px" sstyle="vertical-align: middle"/>&nbsp;
   <img src="https://www.tensorflow.org/images/tf_logo.png" height="50px" style="vertical-align: middle"/>
+  </a>
 </p>
 
 <p align="center"><b>Other Tools:</b></p>
 <p align="center">
+  <a href="https://github.com/arthur5775" target="_blank">
   <img src="https://skillicons.dev/icons?i=latex" height="50px"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50px"/>&nbsp;
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Power_BI_Logo.svg" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory.png" height="50px" style="vertical-align: middle"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="50px" style="vertical-align: middle"/>
+  </a>  
 </p>
 
 ## 📈 Stats 📉
