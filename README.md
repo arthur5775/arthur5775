@@ -52,6 +52,20 @@
 </details>
 -->
 
+## 🏆 Projects I Am Proud Of
+<!--
+<details>
+<summary><h2>🏆 Projects I Am Proud Of</h2></summary>
+-->
+<p align="center">
+  ✨ [Predicting essay scores using textual features with Python](https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW2)<br>
+  ✨ [Vehicle price analysis and predictive modeling with R](https://github.com/arthur5775/HW_StatisticalModelB/tree/main/CW2)<br>
+  ✨ [Data wrangling and analysis of GDP, population, and vehicle Sales in the UK, UAE, and Malaysia with Python](https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW1): Short description.
+</p>
+<!--
+</details>
+-->
+
 ## 📈 Stats 📉
 <!--
 <details>
