@@ -1,5 +1,7 @@
 <hr>
 
+<img src="https://github.com/arthur5775/arthur5775/blob/main/img/Github_header.png?raw=true" width="1350" height="550" />
+
 ## 📚 Languages, Libraries and Tools 🛠️
 <!-- 
 <details>
