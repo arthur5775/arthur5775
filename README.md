@@ -1,6 +1,7 @@
 <hr>
 <details>
 <summary><h2>📚 Languages, Libraries and Tools 🛠️</h2></summary>
+<!-- ## 📚 Languages, Libraries and Tools 🛠️ -->
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
@@ -45,7 +46,9 @@
 </p>
 </details>
 
-## 📈 Stats 📉
+<details>
+<summary><h2>📈 Stats 📉</h2></summary>
+<!-- ## 📈 Stats 📉 -->
 
 <div align="center">
   <a href="https://github.com/arthur5775">
@@ -62,8 +65,11 @@
   <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
   </a>
 </div>
+</details>
 
-## 🎓 [Education](https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/) 🏫
+<details>
+<summary><h2>🎓 [Education](https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/) 🏫</h2></summary>
+<!-- ## 🎓 [Education](https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/) 🏫 -->
 
 <table>
   <tr>
@@ -75,8 +81,10 @@
     </td>
   </tr>
 </table>
+</details>
 
-## ☎️ How to contact me 📧
+<h2>☎️ How to contact me 📧</h2>
+<!-- ## ☎️ How to contact me 📧 -->
 
 <div align="center">
   <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none">
@@ -90,7 +98,6 @@
   </a>
 </div>
 <hr>
-
 
 <!-- Inspired by:
 https://github.com/Ashutosh00710/Ashutosh00710/blob/master/README.md
