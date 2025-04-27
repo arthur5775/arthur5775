@@ -1,6 +1,6 @@
 <hr>
 
-<img src="https://github.com/arthur5775/arthur5775/blob/main/img/Github_header.png?raw=true" width="675" height="225" />
+<p align="center"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Github_header.png?raw=true" width="675" height="225" /></p>
 
 ## 📚 Languages, Libraries and Tools 🛠️
 <!-- 
