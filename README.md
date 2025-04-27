@@ -72,7 +72,7 @@
 
 <div align="center">
   <a href="https://github.com/arthur5775">
-  <img width=320 height=140 src="https://github-readme-stats.vercel.app/api?username=arthur5775&theme=transparent&count_private=true&show_icons=true&rank_icon=github&border_radius=16&locale=en&border_color=ffffff&custom_title=Arthur" alt="GitHub Stats" />
+  <img width=320 height=140 src="https://github-readme-stats.vercel.app/api?username=arthur5775&theme=transparent&count_private=true&show_icons=true&rank_icon=github&border_radius=16&locale=en&border_color=ffffff&custom_title=Github Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/arthur5775">
   <img width=320 height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=arthur5775&theme=transparent&count_private=true&border_radius=16&card_height=200&locale=en&border=ffffff" alt="Streak Stats" />
@@ -82,7 +82,7 @@
   <img width=250 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=16&show_icons=true&locale=en&border_color=ffffff" alt="Most Used Languages" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=390 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Arthur%27s%20contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=600" alt="Activity Graph" />
+  <img width=390 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=600" alt="Activity Graph" />
   </a>
 </div>
 <!--
