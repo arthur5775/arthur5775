@@ -27,7 +27,7 @@
   <a href="https://github.com/arthur5775" target="_blank">
   <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg?sanitize=true" height="50px" style="vertical-align: middle; margin-right: 10px;"/>&nbsp;
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="50px" style="vertical-align: middle"/>&nbsp;
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/plotly.jpeg" height="50px" style="vertical-align: middle"/>&nbsp;
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Plotly_logo.jpeg" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="50px" style="vertical-align: middle"/>
   &nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50px" style="vertical-align: middle"/>&nbsp;
@@ -45,7 +45,7 @@
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Power_BI_Logo.svg" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory.png" height="50px" style="vertical-align: middle"/>
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/scilab.svg" height="50px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Scilab_logo.svg" height="50px" style="vertical-align: middle"/>
   </a>  
 </p>
 <!--
@@ -97,7 +97,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td>
+    <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Map.png?raw=true" width="256" height="192" /></td>
     <td>
       [2020-2025] M1 in Computer Engineering : ISEN, Nantes<br><br>
       [2025-2025] Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
@@ -116,7 +116,7 @@
 
 <div align="center">
   <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/ms-outlook-logo.png" height="30px" style="vertical-align: middle"/>  
+    <img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/Outlook_logo.png" height="30px" style="vertical-align: middle"/>  
     <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
