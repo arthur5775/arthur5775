@@ -79,10 +79,10 @@
   </a>
   <br>
   <a href="https://github.com/arthur5775">
-  <img width=250 height= 320 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img width=250 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=500 height=320 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
+  <img width=500 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
   </a>
 </div>
 <!--
