@@ -52,10 +52,10 @@
 </details>
 -->
 
-## 🏆 Projects I Am Proud Of
+## 🏆 Projects I Am Proud Of 🍾
 <!--
 <details>
-<summary><h2>🏆 Projects I Am Proud Of</h2></summary>
+<summary><h2>🏆 Projects I Am Proud Of 🍾</h2></summary>
 -->
 <p>✨ <a href="https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW2" target="_blank">Predicting essay scores using textual features with Python</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_StatisticalModelB/tree/main/CW2" target="_blank">Vehicle price analysis and predictive modeling with R</a></p>
