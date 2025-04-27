@@ -1,6 +1,6 @@
 <hr>
 <details>
-<summary> <b>📚 Languages, Libraries and Tools 🛠️</b> </summary>
+<summary><h2>📚 Languages, Libraries and Tools 🛠️</h2></summary>
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
