@@ -82,13 +82,8 @@
   <img width=250 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=16&show_icons=true&locale=en" alt="Most Used Languages" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=500 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
+  <img width=500 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark&custom_title=Arthur%27s%20contribution%20graph&radius=16" alt="Activity Graph" />
   </a>
-  
-<a href="https://github.com/arthur5775">
-  <img width=500 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark&&custom_title=Arthur%27s%20contribution%20graph&radius=16" alt="Activity Graph" />
-</a>
-  
 </div>
 <!--
 </details>
