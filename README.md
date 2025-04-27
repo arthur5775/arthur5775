@@ -84,6 +84,12 @@
   <a href="https://github.com/arthur5775">
   <img width=390 height=170 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=500" />
   </a>
+  <a href="https://github.com/arthur5775">
+  <img width=390 height=170 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthur5775&theme=transparent&utcOffset=1" />
+  </a>
+
+
+  
 </div>
 <!--
 </details>
