@@ -54,11 +54,9 @@
   <a href="https://github.com/arthur5775">
   <img width=320 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=arthur5775&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
   </a>
-  <br>
   <a href="https://github.com/arthur5775">
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
   </a>
-  <br>
   <a href="https://github.com/arthur5775">
   <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
   </a>
