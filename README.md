@@ -84,6 +84,11 @@
   <a href="https://github.com/arthur5775">
   <img width=500 height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
   </a>
+  
+<a href="https://github.com/arthur5775">
+  <img width=500 height=200 src=https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Arthur%27s%20contribution%20graph%2C%20days%2090%20radius%2016&radius=16&days=90&theme=react-dark" />
+</a>
+  
 </div>
 <!--
 </details>
