@@ -64,7 +64,7 @@
 </div>
 
 ## 🎓 [Education](https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/) 🏫
-<h2>🎓 <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/" style="color: inherit; text-decoration: none;">Education</a> 🏫</h2>
+
 <table>
   <tr>
     <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/mymap.png?raw=true" width="256" height="192" /></td>
@@ -102,6 +102,7 @@ https://blog.lasheen.dev/beautiful-github-profile-readme/
 <!-- Still to do:
 add profile banner/ header
 add last commit and favorite/ last finish project
+clean up the file and file names used
 https://github.com/athul/waka-readme
 https://github.com/lowlighter/metrics?tab=readme-ov-file
 https://github.com/avgupta456/github-trends
