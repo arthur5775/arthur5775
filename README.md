@@ -82,7 +82,7 @@
   <img width=250 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=16&show_icons=true&locale=en" alt="Most Used Languages" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=500 height=600 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Arthur%27s%20contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=200" alt="Activity Graph" />
+  <img width=500 height=600 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Arthur%27s%20contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=600" alt="Activity Graph" />
   </a>
 </div>
 <!--
