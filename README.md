@@ -58,8 +58,8 @@
   <a href="https://github.com/arthur5775">
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
   </a>
-  <a>
-    [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/arthur5775">
+  <img width=250 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&theme=react-dark" alt="Activity Graph" />
   </a>
 </div>
 
