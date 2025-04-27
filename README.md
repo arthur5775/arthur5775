@@ -2,6 +2,17 @@
 
 ## 📚 Languages, Libraries and Tools 🛠️
 
+<details>
+<summary><b>🧑‍💻 Programming Languages</b></summary>
+
+<p align="center">
+  <a href="https://github.com/arthur5775" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
+  </a>
+</p>
+
+</details>
+
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
