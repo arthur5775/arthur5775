@@ -75,7 +75,7 @@
   <img width=320 height=140 src="https://github-readme-stats.vercel.app/api?username=arthur5775&theme=transparent&count_private=true&show_icons=true&rank_icon=github&border_radius=16&locale=en&border_color=ffffff" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=320 height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=arthur5775&theme=transparent&count_private=true&border_radius=16&card_height=200&locale=en" alt="Streak Stats" />
+  <img width=320 height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=arthur5775&theme=transparent&count_private=true&border_radius=16&card_height=200&locale=en&border=ffffff" alt="Streak Stats" />
   </a>
   <br>
   <a href="https://github.com/arthur5775">
