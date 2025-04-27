@@ -99,3 +99,11 @@ https://github.com/Kiran1689/kiran1689/blob/main/README.md
 https://blog.lasheen.dev/beautiful-github-profile-readme/
 -->
 
+<!-- Still to do:
+add profile banner/ header
+add last commit and favorite/ last finish project
+https://github.com/athul/waka-readme
+https://github.com/lowlighter/metrics?tab=readme-ov-file
+https://github.com/avgupta456/github-trends
+https://github.com/mayankchaudhary26/Cool-Readme-ideas
+-->
