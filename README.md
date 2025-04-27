@@ -1,5 +1,4 @@
 <hr>
-
 ## 📚 Languages, Libraries and Tools 🛠️
 <!-- 
 <details>
