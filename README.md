@@ -60,6 +60,11 @@
 <p>✨ <a href="https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW2" target="_blank">Predicting essay scores using textual features with Python</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_StatisticalModelB/tree/main/CW2" target="_blank">Vehicle price analysis and predictive modeling with R</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW1" target="_blank">Data wrangling and analysis of GDP, population, and vehicle Sales with Python</a></p>
+
+<a href="https://github.com/arthur5775/HW_DataScienceLifeCycle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur5775&repo=HW_DataScienceLifeCycle&theme=transparent&card_width=200" alt="Readme Card">
+</a>
+
 <!--
 </details>
 -->
