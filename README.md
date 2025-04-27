@@ -79,10 +79,10 @@
   </a>
   <br>
   <a href="https://github.com/arthur5775">
-  <img width=250 height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&size_weight=0.5&count_weight=0.5&border_radius=16&show_icons=true&locale=en&border_color=ffffff&card_width=250" />
+  <img width=250 height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur5775&theme=transparent&layout=donut&size_weight=0.5&count_weight=0.5&border_radius=16&show_icons=true&locale=en&border_color=ffffff&card_width=250" />
   </a>
   <a href="https://github.com/arthur5775">
-  <img width=390 height=140 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=500" />
+  <img width=390 height=170 src="https://github-readme-activity-graph.vercel.app/graph?username=arthur5775&custom_title=Contribution%20graph&radius=16&area=true&title_color=2f80ed&line=2f80ed&color=2f80ed&point=2f80ed&bg_color=00000000&height=500" />
   </a>
 </div>
 <!--
