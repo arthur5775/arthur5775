@@ -90,3 +90,12 @@
   </a>
 </div>
 <hr>
+
+
+<!-- Inspired by:
+https://github.com/Ashutosh00710/Ashutosh00710/blob/master/README.md
+https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file
+https://github.com/Kiran1689/kiran1689/blob/main/README.md
+https://blog.lasheen.dev/beautiful-github-profile-readme/
+-->
+
