@@ -1,6 +1,6 @@
 <hr>
 
-##📚 Languages, Libraries and Tools 🛠️
+## 📚 Languages, Libraries and Tools 🛠️
 
 <!-- 
 <details>
