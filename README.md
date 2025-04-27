@@ -63,7 +63,7 @@
   </a>
 </div>
 
-## 🎓 Education 🏫
+## 🎓 [Education](https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/details/education/) 🏫
 
 <table>
   <tr>
