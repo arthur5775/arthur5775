@@ -44,7 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50px"/>&nbsp;
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Power_BI_Logo.svg" height="50px" style="vertical-align: middle"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>
-  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory.png" height="50px" style="vertical-align: middle"/>
+  <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory_logo.png" height="50px" style="vertical-align: middle"/>
   <img src="https://github.com/arthur5775/arthur5775/blob/main/img/Scilab_logo.svg" height="50px" style="vertical-align: middle"/>
   </a>  
 </p>
