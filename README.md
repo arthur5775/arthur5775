@@ -1,6 +1,6 @@
 <hr>
 
-<p align="center"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Github_header.png?raw=true" width="675" height="225" /></p> 
+<p align="center"><a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Github_header.png?raw=true" width="675" height="225" /></a></p> 
 <!--
 made using: https://leviarista.github.io/github-profile-header-generator/
 -->
