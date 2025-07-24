@@ -31,7 +31,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 
 <p align="center"><b>Libraries :</b></p>
 <p align="center">
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" height="50px" style="vertical-align: middle; margin-right: 10px;"/></a>&nbsp;
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=opencv,scikitlearn,tensorflow" height="50px" style="vertical-align: middle; margin-right: 10px;"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" height="50px" sstyle="vertical-align: middle"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="50px" style="vertical-align: middle"/></a> 
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" height="50px" style="vertical-align: middle"/></a>&nbsp;
