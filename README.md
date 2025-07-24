@@ -123,7 +123,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 -->
 
 <div align="center">
-  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none"><img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/Outlook_logo.png" height="30px" style="vertical-align: middle"/></a>
+  <a href="mailto:arthur.grossmann--le-mauguen@isen-ouest.yncrea.fr" style="text-decoration: none"><img src="https://raw.githubusercontent.com/arthur5775/arthur5775/main/img/Outlook_logo.png" height="35px" style="vertical-align: middle"/></a>
     <!-- <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arthur-grossmann-le-mauguen-45094b205/" style="text-decoration: none">
