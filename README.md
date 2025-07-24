@@ -13,7 +13,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java,vba,gas"/></a>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
 </p>
 
 <p align="center"><b>Web Development:</b></p>
