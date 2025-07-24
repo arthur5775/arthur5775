@@ -38,7 +38,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50px" style="vertical-align: middle"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="50px" style="vertical-align: middle"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="50px" sstyle="vertical-align: middle"/></a>&nbsp;
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo.png" height="50px" style="vertical-align: middle"/></a>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="50px" style="vertical-align: middle"/></a> <!--https://www.tensorflow.org/images/tf_logo.png-->
 </p>
 
 <p align="center"><b>Other Tools:</b></p>
