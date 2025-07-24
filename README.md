@@ -131,7 +131,6 @@ https://blog.lasheen.dev/beautiful-github-profile-readme/
 -->
 
 <!-- Still to do:
-add profile banner/ header
 add last commit 
 clean up the file and file names used
 https://github.com/athul/waka-readme
