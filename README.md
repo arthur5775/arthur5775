@@ -25,7 +25,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 
 <p align="center"><b>Embedded Systems:</b></p>
 <p align="center">
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Arduino_IDE_logo.png" height="50px" style="vertical-align: middle"/></a>&nbsp;
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="50px" style="vertical-align: middle"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/STM32_logo.png" height="50px" style="vertical-align: middle"/></a>
 </p>
 
