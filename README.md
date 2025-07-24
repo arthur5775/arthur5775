@@ -13,7 +13,8 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 
 <p align="center"><b>Programming Languages:</b></p>
 <p align="center">
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/></a>
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=python,r,c,matlab,java"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="50px" height="50px"/></a>
 </p>
 
 <p align="center"><b>Web Development:</b></p>
