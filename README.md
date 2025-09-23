@@ -132,6 +132,7 @@ https://blog.lasheen.dev/beautiful-github-profile-readme/
 
 <!-- Still to do:
 add last commit 
+fix issue with graph number 2
 clean up the file and file names used
 https://github.com/athul/waka-readme
 https://www.youtube.com/watch?v=jazcHIaitfE
