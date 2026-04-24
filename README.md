@@ -95,7 +95,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
     <td><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Map.png?raw=true" width="256" height="192" /></td>
     <td>
       [2025-2026] Specialization diploma in Digital and Life Sciences : Centrale Supelec, Rennes<br><br>
-      [2020-2026] Master degree in Computer Engineering : ISEN, Nantes<br><br>
+      [2020-2026] Master degree in Computer Science & Engineering : ISEN, Nantes<br><br>
       [2025-2025] Exchange Semester in Data Science & Energy : Heriot-Watt University, Edinburgh<br><br>
       [2017-2020] High School : Lycée Fabert, Metz
     </td>
