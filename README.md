@@ -42,7 +42,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 <p align="center"><b>Other Tools:</b></p>
 <p align="center">
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://skillicons.dev/icons?i=latex,github" height="50px"/></a>&nbsp;
-  <a href="https://github.com/arthur5775" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025–present).svg?lang=fr" height="50px"/></a>&nbsp;
+  <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Microsoft_Office_Excel_(2025–present).svg" height="50px"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Power_BI_Logo.svg" height="50px" style="vertical-align: middle"/></a>&nbsp;
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>
   <a href="https://github.com/arthur5775" target="_blank"><img src="https://github.com/arthur5775/arthur5775/blob/main/img/Google_Colaboratory_logo.png" height="50px" style="vertical-align: middle"/></a>
