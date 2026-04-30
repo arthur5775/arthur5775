@@ -57,7 +57,7 @@ made using: https://leviarista.github.io/github-profile-header-generator/
 <details>
 <summary><h2>🏆 Projects I Am Proud Of 🍾</h2></summary>
 -->
-<p>✨ <a href="https://github.com/arthur5775/CS_Projet_DOMINANCE" target="_blank">Real-time VAD Emotional Analysis with Facial Recognition and Interactive Dashboardsn with Python and JS</a></p>
+<p>✨ <a href="https://github.com/arthur5775/CS_Projet_DOMINANCE" target="_blank">Real-time VAD Emotional Analysis with Facial Recognition and Interactive Dashboards with Python and JS</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW2" target="_blank">Predicting essay scores using textual features with Python</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_StatisticalModelB/tree/main/CW2" target="_blank">Vehicle price analysis and predictive modeling with R</a></p>
 <p>✨ <a href="https://github.com/arthur5775/HW_DataScienceLifeCycle/tree/main/CW1" target="_blank">Data wrangling and analysis of GDP, population, and vehicle Sales with Python</a></p>
